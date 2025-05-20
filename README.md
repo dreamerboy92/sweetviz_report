@@ -12,16 +12,6 @@ It compares datasets, analyzes target variables, and presents everything in a st
 
 ---
 
-## 🖼️ Report Preview
-
-> 📸 _Add your image preview here_
-
-![Sweetviz Report Preview](https://i.imgur.com/your_image_link.png)
-
-> ⚠️ Replace the link above with your actual screenshot uploaded to [Imgur](https://imgur.com/) or GitHub.
-
----
-
 ## 🧪 How to Generate the Report
 
 ```python
